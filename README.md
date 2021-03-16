@@ -36,7 +36,7 @@ Install Django
 
 Change directory in your terminal to this folder directory.
 
-Run ```python manage.py makemigrations auctions``` to make migrations for the auctions app.
+Run ```python manage.py makemigrations mail``` to make migrations for the mail app.
 
 Run ```python manage.py migrate``` to apply migrations to your database.
 
