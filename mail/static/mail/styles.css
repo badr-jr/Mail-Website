@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+#compose-view{
+    margin-bottom: 15px;
+}
+strong{
+    font-size: large;
+}
+#timestamp{
+    float: right;
+}
+#subject{
+    margin-left: 5%;
+}
+#danger {
+    border-radius: 5px;
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+    margin-top: 5px;
+    display: none;
+  }
